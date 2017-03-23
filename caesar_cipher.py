@@ -1,5 +1,4 @@
 import argparse
-import numpy as np
 
 def parseArguments():
     parser = argparse.ArgumentParser(description='Apply every variation of a caesar cipher.')
